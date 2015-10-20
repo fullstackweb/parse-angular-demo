@@ -1,6 +1,6 @@
 Parse Angular Demo App
 =========
-A simple demo that lets you create and show list of players.
+A simple demo that lets you create and show list of players using parse-angular-patch <https://github.com/brandid/parse-angular-patch> by Brandid.
 
 
 How to use
